@@ -1,7 +1,12 @@
-__pycache__/
 *.pyc
-.pytest_cache/
-site/
-demo_site/
-sample_site/
 .DS_Store
+.env
+.env.*
+.pytest_cache/
+.venv/
+__pycache__/
+demo_site/
+dist/*.tmp
+node_modules/
+sample_site/
+site/
